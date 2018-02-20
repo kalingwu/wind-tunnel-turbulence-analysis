@@ -6,3 +6,5 @@ In the analysis, Taylor's Hypothesis is assume to be valid. The autocorrelation 
 The energy spectrum of the flow is also analyzed and is then used to investigate the different ranges of the energy spectrum and length scales.
 
 Moreoever, the statisitcs of the velocity increments are also investigated. It is demonstrated as the velocity increment increases, the probability density function (PDF) of the increment approaches a Gaussian distribution. The flatness of the velocity increments is also examined, showing a limit of 3, which agrees witht the PDF distribution results.
+
+The results of this analysis is used to explore the assumption and the limitation of the renowed Kolmogorov's Theory of 1941 (K41 theory).
